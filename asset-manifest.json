@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/iathon/web/static/css/main.decec28f.css",
-    "main.js": "/iathon/web/static/js/main.3c4b2a9d.js",
+    "main.css": "/iathon/web/static/css/main.3ae406ea.css",
+    "main.js": "/iathon/web/static/js/main.629b885d.js",
     "static/js/787.d1d4a2c2.chunk.js": "/iathon/web/static/js/787.d1d4a2c2.chunk.js",
     "static/media/image_header2.jpg": "/iathon/web/static/media/image_header2.f229da71912b1aa1f84b.jpg",
     "static/media/image_header.jpg": "/iathon/web/static/media/image_header.20b5ce26356ab3156a6f.jpg",
@@ -15,12 +15,12 @@
     "static/media/logo.png": "/iathon/web/static/media/logo.16d588c78a1a1ca76061.png",
     "static/media/image_gestational.png": "/iathon/web/static/media/image_gestational.bdead5b5807f9c78e947.png",
     "index.html": "/iathon/web/index.html",
-    "main.decec28f.css.map": "/iathon/web/static/css/main.decec28f.css.map",
-    "main.3c4b2a9d.js.map": "/iathon/web/static/js/main.3c4b2a9d.js.map",
+    "main.3ae406ea.css.map": "/iathon/web/static/css/main.3ae406ea.css.map",
+    "main.629b885d.js.map": "/iathon/web/static/js/main.629b885d.js.map",
     "787.d1d4a2c2.chunk.js.map": "/iathon/web/static/js/787.d1d4a2c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.decec28f.css",
-    "static/js/main.3c4b2a9d.js"
+    "static/css/main.3ae406ea.css",
+    "static/js/main.629b885d.js"
   ]
 }
