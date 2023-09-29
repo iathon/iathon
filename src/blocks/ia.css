@@ -1,0 +1,168 @@
+.ia {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 3.12rem 1rem;
+  background-color: #3f5679;
+}
+
+.ia__items {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.ia__item {
+  display: flex;
+  gap: 1rem;
+  border-radius: 30px;
+  overflow: hidden;
+  box-shadow: 4px 5px 13px 0px rgba(0, 0, 0, 0.3);
+  background-color: #364760;
+}
+
+.ia__item:nth-child(2) {
+  flex-direction: row-reverse;
+}
+
+.ia__image {
+  object-fit: cover;
+  width: 350px;
+  max-width: 100%;
+  border-radius: 20px;
+}
+
+.ia__text {
+  color: #e1e1e1;
+  display: flex;
+  align-items: center;
+  font-size: 1.3rem;
+  line-height: 1.6rem;
+  margin: 0;
+  text-align: justify;
+  padding: 10px;
+}
+
+.ia__title {
+  color: #c9c9c9;
+  font-size: 2.5rem;
+  text-align: center;
+  margin: 0;
+  width: 960px;
+}
+
+.ia__authors {
+  font-style: italic;
+  font-size: 1rem;
+  opacity: 0.8;
+  margin: 0;
+  color: #fff;
+}
+
+.ia__quote {
+  color: #c9c9c9;
+  font-size: 1rem;
+  opacity: 0.8;
+  margin: 0;
+  text-align: center;
+}
+
+@media screen and (max-width: 1240px) {
+  .ia__title {
+    font-size: 2.3rem;
+  }
+  .ia__authors {
+    font-size: 0.9rem;
+  }
+  .ia__text {
+    font-size: 1.1rem;
+  }
+  .ia__image {
+    width: 300px;
+  }
+}
+
+@media screen and (max-width: 980px) {
+  .ia__title {
+    width: 740px;
+    font-size: 2rem;
+  }
+  .ia__authors {
+    font-size: 0.8rem;
+  }
+  .ia__image {
+    width: 250px;
+  }
+  .ia__text {
+    font-size: 0.9rem;
+    line-height: 1.4rem;
+  }
+  .ia__quote {
+    font-size: 0.8rem;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .ia__title {
+    width: 550px;
+  }
+  .ia__item {
+    display: grid;
+    justify-items: center;
+    padding-top: 20px;
+  }
+  .ia__text {
+    width: 550px;
+  }
+  .ia__quote {
+    width: 500px;
+    font-size: 0.7rem;
+  }
+}
+
+@media screen and (max-width: 630px) {
+  .ia__title {
+    max-width: 430px;
+    font-size: 1.8rem;
+  }
+  .ia__text{
+    width: 430px;
+  }
+  .ia__quote {
+    width: 430px;
+    font-size: 0.7rem;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  .ia {
+    padding: 3.12rem 0;
+  }
+.ia__title {
+  max-width: 270px;
+  font-size: 1.3rem;
+}
+
+.ia__items {
+  width: 280px;
+  align-items: center
+}
+  .ia__item {
+    width: 280px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+.ia__text {
+  width: 270px;
+}
+.ia__quote {
+  width: 270px;
+  font-size: 0.7rem;
+}
+}
