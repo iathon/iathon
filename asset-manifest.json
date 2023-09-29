@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/iathon/static/css/main.e23e6538.css",
+    "main.js": "/iathon/static/js/main.ef6ccb3b.js",
+    "static/js/787.d1d4a2c2.chunk.js": "/iathon/static/js/787.d1d4a2c2.chunk.js",
+    "static/media/image_header.jpg": "/iathon/static/media/image_header.20b5ce26356ab3156a6f.jpg",
+    "static/media/Roboto-Medium.ttf": "/iathon/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
+    "static/media/Roboto-Regular.ttf": "/iathon/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Roboto-Bold.ttf": "/iathon/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
+    "static/media/ia.png": "/iathon/static/media/ia.3694dc6ac852323cfacb.png",
+    "static/media/grafic.png": "/iathon/static/media/grafic.908635e993a73a47697a.png",
+    "static/media/human-machine.png": "/iathon/static/media/human-machine.61a1a6b196580e64e580.png",
+    "static/media/image_header2.jpg": "/iathon/static/media/image_header2.094baf70f789687cafd5.jpg",
+    "static/media/logo.png": "/iathon/static/media/logo.16d588c78a1a1ca76061.png",
+    "static/media/image_header3.jpg": "/iathon/static/media/image_header3.180b90a2d94e1a351627.jpg",
+    "static/media/image_gestational.png": "/iathon/static/media/image_gestational.bdead5b5807f9c78e947.png",
+    "index.html": "/iathon/index.html",
+    "main.e23e6538.css.map": "/iathon/static/css/main.e23e6538.css.map",
+    "main.ef6ccb3b.js.map": "/iathon/static/js/main.ef6ccb3b.js.map",
+    "787.d1d4a2c2.chunk.js.map": "/iathon/static/js/787.d1d4a2c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e23e6538.css",
+    "static/js/main.ef6ccb3b.js"
+  ]
+}
